@@ -1,0 +1,7 @@
+Attendees: Not provided
+Date: Not provided
+Time: Avallera hopefully
+Action Items:
+- Request a green field instance from Avallera to start fresh and recreate profiles without any legacy environments.
+- Confirm if international licenses are set up and if not, request to have them added.
+Summary: The meeting discussed transitioning away from Avallera for streaming purposes and starting fresh with new profiles. It was noted that there may not be any nexus set up on the existing profiles and that reports were being exported directly from the vendor. The decision was made to request a green field instance from Avallera and to ensure international licenses are set up if needed.

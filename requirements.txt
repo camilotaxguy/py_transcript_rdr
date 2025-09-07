@@ -1,0 +1,6 @@
+openai>=1.0.0
+faster-whisper>=0.10.0
+git+https://github.com/openai/whisper.git
+pydub>=0.25.1
+python-dotenv>=1.0.0
+argparse>=1.4.0
