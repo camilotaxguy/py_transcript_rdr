@@ -161,6 +161,6 @@ def main():
     with open(summary_path, 'w') as f:
         f.write(summary or '')
     print(f'Summary saved to {summary_path}')
-    print("<<<<<<<<<< TransAIscriber completed successfully.")
+    print("<<<<<<<<<< TransAIscriber completed successfully!")
 if __name__ == '__main__':
     main()
